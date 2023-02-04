@@ -1,5 +1,15 @@
 # EcommerceAWS
-Desenvolvimento de uma aplicação serveless com TypeScript e AWS CDK
+Desenvolvimento de uma aplicação serveless com TypeScript e AWS CDK;
+
+- Backend de sistema de Ecommerce fictício;
+- Gerenciamento de Produtos;
+- Gerenciamento de Pedidos;
+- Geração de Eventos;
+- Importação de notas fiscais;
+- Auditoria;
+- Alarmes;
+- Autenticação de usuários;
+
 
 # Welcome to your CDK TypeScript project
 
