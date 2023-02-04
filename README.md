@@ -1,9 +1,11 @@
 # EcommerceAWS
-Desenvolvimento de uma aplicação serveless com TypeScript e AWS CDK;
+Desenvolvimento do backend serveless de um sistema de ECommerce fictício utilizando TypeScript e AWS CDK;
 
-- Backend de sistema de Ecommerce fictício;
-- Gerenciamento de Produtos;
-- Gerenciamento de Pedidos;
+____
+### Gerenciamento de Produtos [WIP]:
+ ![GerenciamentoProdutos](https://user-images.githubusercontent.com/9342074/216784531-d5f9f65f-9b14-489d-8905-ef1cb2be7acc.png)
+____
+- Gerenciamento de Pedidos:
 - Geração de Eventos;
 - Importação de notas fiscais;
 - Auditoria;
