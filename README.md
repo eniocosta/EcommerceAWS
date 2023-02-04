@@ -4,6 +4,14 @@ Desenvolvimento do backend serveless de um sistema de ECommerce fictício utiliz
 ____
 ### Gerenciamento de Produtos [WIP]:
  ![GerenciamentoProdutos](https://user-images.githubusercontent.com/9342074/216784531-d5f9f65f-9b14-489d-8905-ef1cb2be7acc.png)
+
+ | Operação  | URL | Verbo HTTP |
+| ------------- | ------------- |  :---:  |
+| Listar todos os produtos  | /products  | **GET** |
+| Buscar um produto pelo id  | /products/{id}  | **GET** |
+| Criar um produto  | /products  | **POST** |
+| Alterar um determinado produto  | /products/{id}  | **PUT** |
+| Apagar um determinado produto  | /products/{id}  | **DELETE** |
 ____
 - Gerenciamento de Pedidos:
 - Geração de Eventos;
